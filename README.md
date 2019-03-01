@@ -25,9 +25,9 @@ https://www.sparkbeyond.com/
 
 ### Desktop
 
-- [Tableau Prep]()
+- [Tableau Prep](https://www.tableau.com/products/prep)
 
-- [Alteryx]()
+- [Alteryx](https://www.alteryx.com/)
 
 - [Open Refine](http://openrefine.org/)
 
