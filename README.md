@@ -31,6 +31,8 @@ https://www.sparkbeyond.com/
 
 - [Open Refine](http://openrefine.org/)
 
+- [Easy Morph](https://easymorph.com/)
+
 ### Online
 
 - [Paxata](https://www.paxata.com/)
