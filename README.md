@@ -39,4 +39,4 @@ https://www.sparkbeyond.com/
 
 - [Trifacta](https://www.trifacta.com/)
 
-
+- [Clear Story Data](https://www.clearstorydata.com)
