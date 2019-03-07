@@ -8,6 +8,8 @@ https://www.kdnuggets.com/2019/02/gartner-2019-mq-data-science-machine-learning-
 ## Azure ML Studio and Azure Notebooks
 - [Getting Data into Azure Notebooks from GitHub](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/08/25/getting-data-into-azure-notebooks-jupyter-in-the-classroom/)
 
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+
 ## Automated Machine Learning Tools
 - Data Robot
 https://www.datarobot.com
