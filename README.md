@@ -10,6 +10,11 @@ https://www.kdnuggets.com/2019/02/gartner-2019-mq-data-science-machine-learning-
 
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
+- [Installing Python Packages to Azure Notebooks](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/09/20/installing-python-packages-to-azure-notebooks/)
+
+## Machine Learning Lifecycle
+- [MLflow](https://github.com/mlflow): Open source platform for the machine learning lifecycle
+
 ## Automated Machine Learning Tools
 - Data Robot
 https://www.datarobot.com
