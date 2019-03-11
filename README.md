@@ -101,3 +101,54 @@ With ongoing evaluations, you can refine models and adjust classifications to re
 - [Parsehub](https://www.parsehub.com/): Parsehub is a great web crawler that supports collecting data from websites that use AJAX technologies, JavaScript, cookies and etc. Its machine learning technology can read, analyze and then transform web documents into relevant data. As a freeware, you can set up no more than five public projects in Parsehub. The paid subscription plans allow you to create at least 20 private projects for scraping websites.
 
 - [Mozenda](http://www.mozenda.com/): Mozenda is a Cloud-based web scraping service. It provides many useful utility features for data extraction. Users will be allowed to upload extracted data to cloud storage.
+
+## Top Free Web Scraping Software
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Beautiful Soup is a Python library designed for web-scraping HTML and XML files. You can install this free web scraping software If you run Debian or Ubuntu system.
+
+- [CrawlMaster](http://www.crawlmonster.com/): CrawlMonster is a free web scraping software for your website SEO. It enables you to scan websites for different kinds of data points.
+
+- [Connotate](http://www.connotate.com/): Connotate provides a solution for automating web data scraping. You need to request a consultation by providing examples of the type of web information you want to scrape.
+
+- [Common Crawl](http://commoncrawl.org/): Common Crawl provides open datasets of crawled websites. It contains raw web page data, extracted metadata, and text extractions.
+
+- [Crawly](http://crawly.diffbot.com/): Crawly provides automatic service that scrapes a website and turns into structured data in the form of JSON or CSV.
+
+- [Diffbot](https://www.diffbot.com/): Diffbot is an automated tool for scraping structured data from web pages and turning a website into an API. It’s usually for developers.
+
+- [Dexi.io](https://dexi.io/): Dexi.io is a professional cloud web scraping software for automated big data refinery. It offers both free and professional plans. It will be a great option for handling JavaScript.
+
+- [Data Scraping Studio](https://www.datascraping.co/): Data Scraping Studio is a free web scraping software to harvest data from web pages, html, xml, and pdf. The desktop client is currently available for Windows only.
+
+- [Easy Web Extract](http://webextract.net/): Easy Web Extract is a visual web scraping software for business purposes. The unique feature of the software is the HTTP submitted form.
+
+- [FMiner](http://www.fminer.com/): FMiner is a web scraping software with a visual diagram designer and it allows you to build a project with macro recorder.
+
+- [Grabby](https://grabby.io/): Grabby is a web scraping service that helps you scrape all the email address from websites. It’s fully browser-based and no installation required.
+
+- [Helium Scraper](http://www.heliumscraper.com/en/index.php?p=home): Helium Scraper is a visual web data scraping software that works pretty well when the association between elements is small.
+
+- [Scrape.it](http://scrape.it/): Scrape. It is a node.js web scraping software for humans. It’s a cloud-based web data extraction tool.
+
+- [ScraperWiki](https://scraperwiki.com/): ScraperWiki changes its name to QuickCode. The product designed by The Sensible Code Company, is a Python and R data analysis environment.
+
+- [ScrapingHub](https://scrapinghub.com/): Scrapehub provides a cloud-based web scraping platform that allows developers to deploy and scale their crawlers on demand. It will be a great option if you are a developer.
+
+- [Screen Scraper](http://www.screen-scraper.com/): Screen Scraper is a web scraping software for different kinds of scraping. It’s not easy to master the software if you are an inexperienced user. It will take much time to learn the software.
+
+- [Salestools.io](https://salestools.io/): Salestools.io provide a web scraping software that helps sales performers to gather data on professional networks like LinkedIn, Angellist, Viadeo.
+
+- [ScrapeHero](https://www.scrapehero.com/): ScrapeHero as an API provider enables you to turn websites into data. It’s a recent rebranding of an existing web scraping business.
+
+- [UiPath](http://www.uipath.com/): UiPath is a robotic process automation software for free web scraping. It automates web and desktop data extraction out of most third-party Apps. You can install the robotic process automation software if you run a Windows system.
+
+- [Web Content Extractor](http://www.newprosoft.com/): Web Content Extractor is an easy-to-use web scraping software for your private or enterprise purposes. It’s very easy to learn and master. It has a 14-day free trial.
+
+- [WebHarvy Web Scraper](https://www.webharvy.com/): WebHarvy is a point-and-click web scraping software. It’s designed for non-programmers. The extractor doesn’t allow you to schedule.
+
+- [Web Scraper.io](http://webscraper.io/): Web Scraper is a chrome browser extension built for scraping data from websites. It’s a free web scraping software for scraping dynamic web pages.
+
+- [Web Sundrew](http://www.websundew.com/): WebSundew is a visual scraping tool that works for structured web data scraping. The Enterprise edition allows you to run the scraping at a remote Server and publish collected data through FTP.
+
+- [Winautomation](http://www.winautomation.com/): Winautomation is a Windows web scraping tool that enables you to automate desktop and web-based tasks. The layout is clear and easy to follow.
+
+- [Web Roots](https://webrobots.io/): Web Robots is a web scraping platform for scraping dynamiJavaScript-heavy websites. The software is currently in beta.
