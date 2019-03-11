@@ -90,3 +90,14 @@ With ongoing evaluations, you can refine models and adjust classifications to re
 - [Trifacta](https://www.trifacta.com/)
 
 - [Clear Story Data](https://www.clearstorydata.com)
+
+## Data Extraction Tools
+- [Octoparse](https://www.octoparse.com/): Octoparse is a free and powerful website crawler used for extracting almost all kinds of data you need from the website. You can use Octoparse to rip a website with its extensive functionalities and capabilities. Its point-and-click UI helps non-programmers to quickly get used to Octoparse. It allows you to grab all the text from the website with AJAX, Javascript and thus you can download almost all the website content and save it as a structured format like EXCEL, TXT, HTML or your databases. More advanced, it has provided Scheduled Cloud Extraction which enables you to [extract the dynamic data in real time](https://www.octoparse.com/blog/extracting-dynamic-data-with-octoparse) and keep a tracking record.
+
+- [Content Grabber](https://contentgrabber.com/): Content Graber is a web crawling software targeted at enterprises. It can extract content from almost any website and save it as structured data in a format of your choice, including Excel reports, XML, CSV, and most databases. It is more suitable for people with advanced programming skills, since it offers many powerful scripting editing, debugging interfaces for people in need. Users are allowed to use C# or VB.NET to debug or write scripts to control the crawling process programming.
+
+- [Import.io](https://www.import.io/): Import.io is a paid web-based data extraction tool to pull information off of websites used to be something reserved for the nerds. Simply highlight what you want and Import.io walks you through and "learns" what you are looking for. From there, Import.io will dig, scrape, and pull data for you to analyze or export.
+
+- [Parsehub](https://www.parsehub.com/): Parsehub is a great web crawler that supports collecting data from websites that use AJAX technologies, JavaScript, cookies and etc. Its machine learning technology can read, analyze and then transform web documents into relevant data. As a freeware, you can set up no more than five public projects in Parsehub. The paid subscription plans allow you to create at least 20 private projects for scraping websites.
+
+- [Mozenda](http://www.mozenda.com/): Mozenda is a Cloud-based web scraping service. It provides many useful utility features for data extraction. Users will be allowed to upload extracted data to cloud storage.
