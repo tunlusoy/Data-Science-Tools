@@ -37,6 +37,17 @@ https://www.sparkbeyond.com/
 
 - [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): A useful reference for those getting started with Google's TensorFlow machine-learning software framework, offering a long list of code examples demonstrating everything from basic TensorFlow operations to building neural networks.
 
+- GitHub's best guides for Python developers
+  - [Awesome Python](https://github.com/vinta/awesome-python): A curated list of 'awesome' Python frameworks, libraries, software and resources, with code covering just about everything you might use Python for.
+  
+  - [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): A useful reference for those getting started with Google's TensorFlow machine-learning software framework, offering a long list of code examples demonstrating everything from basic TensorFlow operations to building neural networks.
+  
+  - [The algorithms](https://github.com/TheAlgorithms/Python): Examples of sorting and other common computer science algorithms implemented in Python, including links to visualizations of the algorithms in action. Useful for those swatting up for a technical interview.
+  
+  - [100 days of ML coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code): This repo is an eclectic mix of worksheets that walk users through the basics of getting started with machine learning, with links to the associated code samples and datasets, as well as to useful videos explaining key mathematical concepts.
+  
+  - [Python Patterns](https://github.com/faif/python-patterns): A collection of design patterns and idioms in Python, with code examples and written explanations of what the code is doing and when each pattern is appropriate to use.
+
 ## Open Source Data Tools
 - [Knime](https://www.knime.com/): KNIME Analytics Platform is the leading open solution for data-driven innovation, helping you discover the potential hidden in your data, mine for fresh insights, or predict new futures. With more than 1000 modules, hundreds of ready-to-run examples, a comprehensive range of integrated tools, and the widest choice of advanced algorithms available, KNIME Analytics Platform is the perfect toolbox for any data scientist.
 
