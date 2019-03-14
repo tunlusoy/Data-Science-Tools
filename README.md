@@ -4,6 +4,9 @@ Variety of curated data science and analytics tools and platforms
 ## General
 - [Gainers, Losers, and Trends in Gartner 2019 Magic Quadrant for Data Science and Machine Learning Platforms](https://www.kdnuggets.com/2019/02/gartner-2019-mq-data-science-machine-learning-changes.html)
 
+- [Magic Quadrant for Data Science and Machine Learning Platforms](https://www.gartner.com/doc/reprints?id=1-65OPDHH&ct=190125):
+![Image of MQ](https://github.com/tunlusoy/Data-Science-Tools/MQ for DS and ML Platforms - Gartner 2019.png)
+
 ## Azure ML Studio and Azure Notebooks
 - [Getting Data into Azure Notebooks from GitHub](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/08/25/getting-data-into-azure-notebooks-jupyter-in-the-classroom/)
 
