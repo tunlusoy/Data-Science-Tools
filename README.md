@@ -116,6 +116,9 @@ With ongoing evaluations, you can refine models and adjust classifications to re
 
 - [Mozenda](http://www.mozenda.com/): Mozenda is a Cloud-based web scraping service. It provides many useful utility features for data extraction. Users will be allowed to upload extracted data to cloud storage.
 
+## Special Use-Case Tools
+- [Splunk](https://www.splunk.com/): Splunk is a software for searching, monitoring, and analyzing machine-generated big data, via a Web-style interface.
+
 ## Top Free Web Scraping Software
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Beautiful Soup is a Python library designed for web-scraping HTML and XML files. You can install this free web scraping software If you run Debian or Ubuntu system.
 
