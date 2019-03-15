@@ -40,6 +40,9 @@ https://www.sparkbeyond.com/
 
 - [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): A useful reference for those getting started with Google's TensorFlow machine-learning software framework, offering a long list of code examples demonstrating everything from basic TensorFlow operations to building neural networks.
 
+## MatLab
+- [Step by step guide to machine learning with matlab](https://www.mathworks.com/campaigns/offers/mastering-machine-learning-with-matlab.html?s_eid=PSB_20534): Get started with a MATLAB machine learning example presented in an easy-to-follow tutorial format.
+
   
 ## Open Source Data Tools
 - [Knime](https://www.knime.com/): KNIME Analytics Platform is the leading open solution for data-driven innovation, helping you discover the potential hidden in your data, mine for fresh insights, or predict new futures. With more than 1000 modules, hundreds of ready-to-run examples, a comprehensive range of integrated tools, and the widest choice of advanced algorithms available, KNIME Analytics Platform is the perfect toolbox for any data scientist.
