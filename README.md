@@ -40,6 +40,8 @@ https://www.sparkbeyond.com/
 
 - [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples): A useful reference for those getting started with Google's TensorFlow machine-learning software framework, offering a long list of code examples demonstrating everything from basic TensorFlow operations to building neural networks.
 
+- [An Introduction to Scikit Learn: The Gold Standard of Python Machine Learning](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab): Scikit-learn provides a wide selection of supervised and unsupervised learning algorithms. Best of all, it’s by far the easiest and cleanest ML library.
+
 ## MatLab
 - [Step by step guide to machine learning with matlab](https://www.mathworks.com/campaigns/offers/mastering-machine-learning-with-matlab.html?s_eid=PSB_20534): Get started with a MATLAB machine learning example presented in an easy-to-follow tutorial format.
 
