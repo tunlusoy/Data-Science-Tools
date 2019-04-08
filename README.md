@@ -42,6 +42,8 @@ https://www.sparkbeyond.com/
 
 - [An Introduction to Scikit Learn: The Gold Standard of Python Machine Learning](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab): Scikit-learn provides a wide selection of supervised and unsupervised learning algorithms. Best of all, it’s by far the easiest and cleanest ML library.
 
+- [PyTorch - Everything You Need to Know](https://www.cuelogic.com/blog/pytorch-in-10-mins): The latest release of Pytorch 1.0 by Facebook marks another major milestone for the open source Deep Learning platform. It is increasingly making it easier for developers to build Machine Learning capabilities into their applications while testing their code is real time.
+
 ## R
 - [R developer's guide to Azure](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide): 
 
