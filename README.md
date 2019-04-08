@@ -44,6 +44,8 @@ https://www.sparkbeyond.com/
 
 - [PyTorch - Everything You Need to Know](https://www.cuelogic.com/blog/pytorch-in-10-mins): The latest release of Pytorch 1.0 by Facebook marks another major milestone for the open source Deep Learning platform. It is increasingly making it easier for developers to build Machine Learning capabilities into their applications while testing their code is real time.
 
+- [spaCy Cheat Sheet: Advanced NLP in Python](https://www.datacamp.com/community/blog/spacy-cheatsheet): A handy two-page reference to the most important concepts and features.
+
 ## R
 - [R developer's guide to Azure](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide): 
 
