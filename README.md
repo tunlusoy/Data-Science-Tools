@@ -42,6 +42,9 @@ https://www.sparkbeyond.com/
 
 - [An Introduction to Scikit Learn: The Gold Standard of Python Machine Learning](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab): Scikit-learn provides a wide selection of supervised and unsupervised learning algorithms. Best of all, it’s by far the easiest and cleanest ML library.
 
+## R
+- [R developer's guide to Azure](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide): 
+
 ## MatLab
 - [Step by step guide to machine learning with matlab](https://www.mathworks.com/campaigns/offers/mastering-machine-learning-with-matlab.html?s_eid=PSB_20534): Get started with a MATLAB machine learning example presented in an easy-to-follow tutorial format.
 
