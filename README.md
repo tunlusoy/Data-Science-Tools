@@ -181,3 +181,7 @@ With ongoing evaluations, you can refine models and adjust classifications to re
 - [Winautomation](http://www.winautomation.com/): Winautomation is a Windows web scraping tool that enables you to automate desktop and web-based tasks. The layout is clear and easy to follow.
 
 - [Web Roots](https://webrobots.io/): Web Robots is a web scraping platform for scraping dynamiJavaScript-heavy websites. The software is currently in beta.
+
+## Databases (SQL and NoSQL)
+
+- [DB-ENGINES](https://db-engines.com/en/systems): Knowledge Base of Relational and NoSQL Database Management Systems
