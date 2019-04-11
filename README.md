@@ -49,6 +49,9 @@ https://www.sparkbeyond.com/
 ## R
 - [R developer's guide to Azure](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide): 
 
+## Spark
+- [Apache Spark](https://spark.apache.org/): Apache Spark™ is a unified analytics engine for large-scale data processing.
+
 ## MatLab
 - [Step by step guide to machine learning with matlab](https://www.mathworks.com/campaigns/offers/mastering-machine-learning-with-matlab.html?s_eid=PSB_20534): Get started with a MATLAB machine learning example presented in an easy-to-follow tutorial format.
 
