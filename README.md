@@ -52,6 +52,8 @@ https://www.sparkbeyond.com/
 ## Spark
 - [Apache Spark](https://spark.apache.org/): Apache Spark™ is a unified analytics engine for large-scale data processing.
 
+- [Databricks](https://community.cloud.databricks.com)
+
 ## MatLab
 - [Step by step guide to machine learning with matlab](https://www.mathworks.com/campaigns/offers/mastering-machine-learning-with-matlab.html?s_eid=PSB_20534): Get started with a MATLAB machine learning example presented in an easy-to-follow tutorial format.
 
@@ -66,6 +68,7 @@ https://www.sparkbeyond.com/
 - [Pentaho](http://www.pentaho.com/): Pentaho addresses the barriers that block your organization's ability to get value from all your data. The platform simplifies preparing and blending any data and includes a spectrum of tools to easily analyze, visualize, explore, report and predict. Open, embeddable and extensible, Pentaho is architected to ensure that each member of your team — from developers to business users — can easily translate data into value.
 
 - [Talend](https://www.talend.com/): Talend is the leading open source integration software provider to data-driven enterprises. Our customers connect anywhere, at any speed. From ground to cloud and batch to streaming, data or application integration, Talend connects at big data scale, 5x faster and at 1/5th the cost.
+    - [Talend Data Preparation Free Desktop](https://www.talend.com/products/data-preparation/data-preparation-free-desktop/): With Talend Data Preparation Free Desktop, simplify and automate your data cleaning with an easy-to-use visual tool. It enables you to quickly build reusable data preparation recipes.
 
 - [Weka](https://weka.wikispaces.com/): Weka, an open source software, is a collection of machine learning algorithms for data mining tasks. The algorithms can either be applied directly to a data set or called from your own JAVA code. It is also well suited for developing new machine learning schemes, since it was fully implemented in the JAVA programming language, plus supporting several standard data mining tasks. For someone who hasn’t coded for a while, Weka with its GUI provides the easiest transition into the world of Data Science. Being written in Java, those with Java experience can call the library into their code as well.
 
