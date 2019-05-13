@@ -46,7 +46,7 @@ https://www.sparkbeyond.com/
 
 - [spaCy Cheat Sheet: Advanced NLP in Python](https://www.datacamp.com/community/blog/spacy-cheatsheet): A handy two-page reference to the most important concepts and features.
 
-- [PivotTable.js](https://pivottable.js.org/examples/): PivotTable.js is an open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop functionality written by Nicolas Kruchten. Python code below.
+- [PivotTable.js](https://pivottable.js.org/examples/): PivotTable.js is an open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop functionality written by Nicolas Kruchten. [Magic Extensions](http://nicolas.kruchten.com/content/2015/11/pyconca/) Python code below.
     - from pivottablejs import pivot_ui
     - Pivot_ui(df)
 
