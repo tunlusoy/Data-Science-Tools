@@ -51,7 +51,14 @@ https://www.sparkbeyond.com/
     - Pivot_ui(df)
 
 ## R
+
+- [R Studio](https://www.rstudio.com/): Open source and enterprise-ready professional software for R.
+
+- [R Studio Webinars](https://www.rstudio.com/resources/webinars/): 
+
 - [R developer's guide to Azure](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide): 
+
+- [Running Shiny Server on Azure](http://myyearindata.com/2018/running-your-own-shiny-server-on-azure/): Want to host your own Shiny Server on Azure? Want to be able to scale it when needed and turn it off when not? Then this is the tutorial for you! You may have read Dean Attali’s tutorial How to get your very own RStudio Server and Shiny Server with DigitalOcean. Well, I’ve forked his tutorial to explain how you achieve most of this on Microsoft Azure.
 
 ## Spark
 - [Apache Spark](https://spark.apache.org/): Apache Spark™ is a unified analytics engine for large-scale data processing.
